@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" width="150px;" alt="Maamoun Benhafsa Avatar"/>
+  <img src="https://avatars.githubusercontent.com/u/MaamounBenhafsa?v=4" width="150px;" alt="Maamoun Benhafsa Avatar"/>
   <h1>👋 Hello there! I'm Maamoun Benhafsa</h1>
   <h3>Full-Stack Web Developer | JavaScript & Node.js Expert</h3>
 </div>
