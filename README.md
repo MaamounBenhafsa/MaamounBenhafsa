@@ -1,18 +1,12 @@
 <div align="center">
 
-<!-- Header Banner -->
-
-
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+solutions+that+drive+business+results;4%2B+years+crafting+full-stack+web+applications;Turning+complex+problems+into+elegant+code" alt="Typing SVG" />
 </a>
 
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mamounbenhafsa)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamobenh1999@gmail.com)
