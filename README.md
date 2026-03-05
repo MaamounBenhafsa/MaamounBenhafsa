@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Maamoun%20Benhafsa&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20JavaScript%20%26%20Node.js%20Expert&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" alt="Header"/>
+
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
